@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Python environment
+etc/
+include/
+share/
+bin/
+
+# DS Store
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
