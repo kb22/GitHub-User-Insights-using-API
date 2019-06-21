@@ -1,0 +1,414 @@
+Id,Date,Message
+62bf829df5045ed10787551b46a1ae1cc103e1d2,2018-10-29T13:10:26Z,Update README.md
+a49bf9574b3f4170a5baf27ef8664e9a053ccaed,2018-10-27T17:11:37Z,Remove unused imports
+c13241c5428628f63d44dd1e7a1e568f930dd05b,2018-10-27T15:31:59Z,Use test.csv for testing
+050ef708c4334382d06fd1dc8061ed14d58da6b4,2018-10-25T10:50:27Z,Use machine learning algorithms
+48593306b25ad2456fc55131a73e78a1405e62db,2018-10-24T16:06:06Z,Add visualizations of the dataset
+8355fc96e5b5d43fb7aabc4cb847ab980e5ba100,2018-10-24T07:59:58Z,Initial commit
+2ff2ac6e3344dcf679adab4e21ee830aa5351188,2018-10-23T14:40:40Z,Initial commit
+c6658d2c47bdbc9f6765a8397b4e96e8d4c76394,2017-07-22T17:08:36Z,Create README.md
+3843dc0fcaea5478f9ec7dfd0764f214950dd600,2017-07-22T17:05:22Z,first-commit
+2bc642cdbfb578c6f76a9500deaebbdd408a9d5f,2019-05-24T10:39:40Z,Update requirements.txt
+d9789d1d700759938a46702292ddd89bc769bf25,2019-05-24T10:36:17Z,Merge branch 'master' of https://github.com/kb22/Article-Recommender
+8615a5725edb51c840ced6394e09d14d0ae3935c,2019-05-24T10:34:51Z,Update the dependency versions
+9cc5c1cbeaaabe786b41e861d7275b5efe8acfef,2019-05-24T10:31:26Z,Update README.md
+3d260d92772b27ff424f98cad7e547ee3c58bf65,2019-03-17T09:07:32Z,Update README.md
+78a73a97545a0c93b36224b134ca3b6a53e79d21,2019-03-17T09:06:28Z,Merge branch 'master' of https://github.com/kb22/Article-Recommender
+f8d5ff60db57b2ac59d9d96c659f72037378b97a,2019-03-17T09:06:14Z,Include requirements file
+239d71702f9075bdec50759457811dfd248193cf,2019-03-17T06:11:36Z,Update README.md
+017cf200fa0ba0fc1e357d8816b8902bba751adf,2019-03-14T11:41:38Z,Add information for all files
+94382d9cb562ed6490067afc7e36c45f893c7c5b,2019-03-14T11:12:58Z,Add sample output image
+56eb56ab26a835f75fd81f730a5e03fb9721dad6,2019-03-14T11:01:49Z,Update PyYaml version to remove severity issues
+c29fa3fac24c63aef0769ceb36c9e11896709ed2,2019-03-14T05:31:06Z,Add complete usage steps
+b7f23cb2474617b504af3035553b3d911a879c83,2019-03-12T21:10:24Z,Merge branch 'master' of https://github.com/kb22/Article-Recommender
+69cf96c5b1bdf27054e5f50e406ea31cee5258f0,2019-03-12T21:09:53Z,Add code to generate LDA and recommend articles using evaluator
+4988800173c7d5b4c05b9c81658dae36d351081b,2019-03-11T21:27:41Z,Update README with data collection process
+9542419df52a256634d36bf7a858d2a9fc5adf67,2019-03-11T21:16:08Z,Merge branch 'master' of https://github.com/kb22/Article-Recommender
+625472ccb3f908bafbf651c7eac8daa32116731f,2019-03-11T21:13:16Z,Create Python scripts to collect data from Wikipedia and store in database
+ffe82dfec8e40db12862b6a6dc52e671f1a73a64,2019-03-11T21:04:21Z,Initial commit
+7d8005772be6f8af30e72f653bad7703274641f3,2017-09-26T20:05:46Z,Front-end completed
+9e258124209207468f2b773b54fb78a8690bf82b,2017-09-25T13:50:02Z,First Commit
+1bd66da67607e7b408fa3d91c4e86134d7c95a65,2017-09-23T21:15:38Z,Icon updated
+94c90e06def22bd562ce39b0215d9c189872ac6d,2017-09-22T04:27:23Z,Front End Completed
+926c8288d945a000ed071f3d9e7fa63591614c33,2019-05-24T05:19:07Z,Update function to get colors
+ffb26be4922e56596a99141fffdb295cf4d0827d,2018-12-16T16:38:20Z,Minor changes
+29daf529b17de40929377c05d2d31d219b19f139,2018-12-16T14:01:14Z,Combine all imports
+3cba01dcec0b402a2f11fc1ff7b05dcb46774d2a,2018-12-16T13:12:04Z,Image search based on color added
+7a593c59df54328915a13e6c761f748c8c11889c,2018-12-16T07:27:39Z,Initial commit
+7a2d9b5a3c1b2933a099ece6b13532544be48f18,2017-07-22T17:25:25Z,Create README.md
+d8108e4961efe632033323a40b3a0357015a6d85,2017-07-22T17:18:33Z,first-commit
+44778053f346a295ca5d36d04fd64c6d7a8f7eb2,2019-06-17T08:10:51Z,Update README.md
+d55e1fbb5aff73149baa8114063a46c4252d1a3f,2019-06-17T08:10:11Z,Update README.md
+320565a35a6aa4d56ed510856b77dbb1c242cf75,2019-06-15T16:40:53Z,Minor text changes
+e47b9be01ac47b47475e2f9c3b2a9b105d276dc0,2019-06-15T10:45:04Z,Add final sections to the report
+cee2e6675f9c017203c9b6892d16e3344fc50247,2019-06-15T09:19:39Z,Merge branch 'master' of https://github.com/kb22/Coursera_Capstone
+6e1fdaaa216f04d01219ce7cc7c9ad310e260d3f,2019-06-15T08:28:40Z,Make data and introduction more descriptive
+04ca7746577cdc94cd4afa128cfbaaedbf659cfc,2019-06-14T07:28:47Z,Update README.md
+9c133686283d3a65254debcab93d450b28082775,2019-06-14T07:24:04Z,Text fix
+3fbc9ff38f63b769e564f171563c82b8621a0dc7,2019-06-13T04:13:34Z,Minor text changes
+5a9575dd14f7eee3215d6bfe794a9ed24c3e9504,2019-06-12T16:11:15Z,Add updated maps
+5ee21cd284c47aa09c0a3e2520dc0ef62b43d254,2019-06-12T16:11:07Z,Make descriptions more informative
+6cf4d14cc72942a0b8932a4c573617bc77b77fa1,2019-06-12T12:13:16Z,Begin analysis part
+120f3c0a40c689dbeeaab8d4fd8062d7beb1e02e,2019-06-12T09:38:35Z,Add data exploration and methodology
+0f9e96867263967e2060be7a23f553ce386862e8,2019-06-12T06:00:14Z,Merge branch 'master' of https://github.com/kb22/Coursera_Capstone
+e88fa36c469575237354e0e5d9647bfcd2436739,2019-06-12T05:59:35Z,Add more descriptive introduction and data collection
+ed5daf3332bc20e2b151b6290556a1033abf1166,2019-06-12T02:59:02Z,Update README.md
+7fa23f9a4fd3e1d0bcff1d1596961fcbed9227d4,2019-06-12T02:53:35Z,Save all maps as html files
+dbb2c73382ead1f6e3bc3122a7496e7be8693b20,2019-06-12T02:53:15Z,Add code to save maps as html
+a5758a983029be18ffe116477fa3784a4261851d,2019-06-12T02:34:09Z,Text changes to notebook
+f4bd455fc75cb85a61d3df4b6130db3fdf6705dc,2019-06-12T01:43:15Z,Add requirements file
+cc2897305fde9d0755c67f8a490ebcf2a7882beb,2019-06-11T13:13:26Z,Add notebook for capstone project
+1856100989576529862688edc4fd4fe8a3bbaf29,2019-06-08T20:15:28Z,Add markdown for libraries import
+e0e95f20a7465cddec2607f80c2832085a6a9d2c,2019-06-08T20:12:57Z,Add notebook for capstone project
+68eee6f6038f406d01c793d22ecdf168ade9c4f0,2019-06-08T20:11:23Z,Made introduction more clear
+67ac17462df30a69c69114857dbaa6db269f3d50,2019-06-08T19:54:31Z,Add steps of data aggregation
+0560ea8e0ca54be5f2c4c12d3639f54b4364f069,2019-06-08T19:46:30Z,Add data sources
+6bba17dc893da0298df0ef45afc647caa1d019bc,2019-06-08T19:36:10Z,Add PDF version of the report
+3e2e857513635c97ee19e93256a3aaf26160c2c8,2019-06-08T19:34:44Z,Add data section
+558907381f7528396f2615ab615733846b575676,2019-06-08T19:18:15Z,Add Capstone Project report
+ae326c1c20b77de2c137eac82a34f761be7b33c1,2019-05-27T20:00:59Z,Add notebook with Toronto clustering
+d194c1f543a8241c3a7326edd3b61e613e683f6f,2018-09-24T07:26:43Z,Add article link
+6a8484e96d07d8ef4fa43cec66532637d24a512a,2018-09-24T07:23:26Z,Update readme.md
+39414541d01b7a40bc946a56b357cf5cb8ddfd34,2018-09-21T05:15:11Z,Show sample of dataset
+565aec4a7eab41ff5fff8a31f1adb015f0d7b7cb,2018-09-21T03:59:35Z,Increase channel list
+40a9f6d7ab38d582088365452cb394df65970026,2018-09-20T10:16:25Z,Remove extra import
+a1e4b43fb5900d6c449d49d49d3248be238a889e,2018-09-20T08:46:57Z,Notebook to create dataset
+2c50f0664208a4242bfa89526fef10c5f948aceb,2018-09-20T08:36:59Z,Update README.md
+78121f7d62673139f9bd70ec815bf48a304fdbac,2018-09-20T08:36:39Z,Initial commit
+4da9aaa3093c703c99fb7573fab15a352bdd37c9,2019-03-04T07:58:43Z,Merge branch 'master' of https://github.com/kb22/Create-Face-Data-from-Images
+402830c6c03df1711c2341b0345747a40fc007ae,2019-03-04T07:58:23Z,Add check for image file extensions
+9d0d8770c0305d3c4f35e661af988ab51f23ff5a,2019-03-03T12:27:57Z,Update README.md
+934b10d6107a00452e3a787c3e371584f36993cf,2019-03-03T11:35:28Z,Add requirements.txt
+ffc760bd01c1a8195dd01ff974c0e1e448dbb097,2019-03-03T11:26:17Z,Create two files to generate data
+6ac20f88816e527f9fe228229f75bd67d959ca72,2019-03-03T06:24:15Z,Initial commit
+02a50d538754fc63302af0248b1be955c5377f1a,2019-06-01T10:29:30Z,Work on Mega Case study (Using SOM and ANN)
+ca1f96e5eb6319107100383a1e1e040540d53eb5,2019-05-31T10:13:37Z,Update requirements file
+322838e2b6289b196333c8b058562d0a3265b781,2019-05-31T10:12:13Z,Add code for Self Organising Maps
+9e4201990c46c68ea10bfc2648a4124c830a3f34,2019-05-18T09:49:22Z,Build LSTM model to predict stock prices
+da0375b0708af6cfc8ac21e32a32f8137166d035,2019-05-17T06:52:00Z,Start of RNN notebook
+7246703f4fd98fc8c85cb078a968088eab756b4c,2019-05-17T06:51:44Z,Updated CNN code
+3145469baf2fd9d64f924e7c8ee3e5674844a9cd,2019-05-10T13:25:31Z,Add updated model with high accuracy
+2b06b3896a34304c25625600cb5cde428bc36951,2019-05-09T06:33:01Z,Adding a more accurate model
+cc28d14bd4a310cab479760d9ecf4107dd9616c5,2019-05-09T06:13:09Z,Add improvement to CNN model
+f3234f312981fa15a11ed10559f29b26f9015732,2019-05-08T19:25:32Z,Add model evaluation
+8c17cbaa62c336dac0ec5fb5c416baa0580b4fe2,2019-05-08T18:51:22Z,Build CNN Model
+113c462898b91ef1747736560107f70007492f3e,2019-05-06T11:20:52Z,Begin CNN model creation
+fb81b677ace71dbf1cba135e853d6c760ae8dab3,2019-05-03T09:55:28Z,Add complete code for ANN with tuning
+4ccdb5dfe73abec38dfc391015884e1527283fa6,2019-04-30T20:08:12Z,Add ANN code with homework solution
+e44eed79aab39a57108972b4f1f02670baee5c94,2019-04-25T07:42:29Z,Add Jupyter notebook for ANN
+81e44b9bb24a5f1d9a1fd88310c9e6f1c9151b2d,2019-04-25T07:42:12Z,Add Python requirements file
+890978ca77f36480073dedbddfea4c8491c7cabe,2019-04-24T10:48:10Z,Initial commit
+43eb873511315efac36515d90e8d37a851a26682,2019-05-25T00:46:58Z,Update dependencies
+80ccf6d8531814241995f150092127fd76e5748c,2019-03-26T03:08:11Z,Update Readme with instructions on usage
+1664142ae82b69b1591237ab2460d9a3ef0bd822,2019-03-26T03:03:37Z,Delete predictor-service.py
+e4fa9fcaad9d7c11939a1b54f7d9057c58ce8072,2019-03-23T19:25:03Z,Add a prediction service using Flask and Flask-restplus
+e9c89a8502a4b38e690500a5c0c81cffdb04d91c,2019-03-23T18:31:40Z,Add code to save the model
+25100227aa59ade1398db9af1a2b1401cbe1ec9d,2019-03-22T17:44:31Z,Add .gitignore file
+cf3be534c5f4f73e39347441c1529e604c093968,2019-03-22T17:44:23Z,Update notebook with Parameter tuning
+274af6ea4935867addefc31fe46a928d64608f64,2019-03-21T16:47:51Z,Add dataset as data.zip
+e61642e10e885b2e84e6e5821ccf52a3894c9e06,2019-03-21T16:43:23Z,"Merge pull request #1 from kb22/classification
+
+Classification"
+b5ef19a11ff30c980ac15dc51b74ddea35a8b9c2,2019-03-21T16:42:25Z,Include requirements.txt
+0552972964f9e9152a14189708bb6babc1bc032f,2019-03-21T16:32:26Z,"Load dataset, analyse it and then predict results"
+f07fb41eaa595b97fc27b91a0c95ae4363166c5f,2019-03-21T13:41:52Z,Initial commit
+19e25fd582d1576a39b209ee5ce167d630f7b020,2019-03-02T19:32:02Z,Add detection steps for image and video
+a740fdbcc4ade5cdefb809231205a0b0baeb3858,2019-03-02T17:08:57Z,Update setup steps
+a46bf791542806b9bb55b11b9e1b69436ba1a517,2019-03-02T17:07:31Z,Merge branch 'master' of https://github.com/kb22/Face-Detection-using-OpenCV
+c328022944a0b0d3a7643cd6cd8a0c329c188122,2019-03-02T17:07:09Z,Create separate folders for video and image classifiers
+1e02b3ae96c501eb9cff0a316a8eb8a092a399cf,2019-03-02T14:00:39Z,Add steps to run
+3eb260307b1f861b9d98f7bf9805c0161cc39694,2019-03-02T13:52:24Z,Add requirements and Pipfile
+d557898b8177389cb174aba4534c6729e7f70fe1,2019-03-02T12:38:47Z,Add code to use model and show box around face
+5134f903c91432f534f75e5c912cba39d3ee608e,2019-03-01T14:00:05Z,Initial commit
+05445ec777996255007a745dc93e76aeada2aef9,2019-06-20T12:40:44Z,Add notebook to explore the GitHub API
+f712ad3f43b9ebf54bba076a3444ba12d676c5e7,2019-06-20T05:59:35Z,Initial commit
+dbd27c35db3a128f7f87a2d1b8200f1f14e4affb,2019-02-12T14:04:32Z,Move all imports into one place
+38d77b8053d168e9838a16c45cbca4a36eee4ffa,2019-02-12T02:27:51Z,Add feature scaling and model prediction
+a4e0bbf32b3b67b3516716055573b47846fd9f5d,2019-02-10T16:00:06Z,Import libraries and dataset
+c0b430cc032d53a0bfa0b3dd9d076112458c81c0,2019-02-10T15:21:49Z,Initial commit
+58a07a07b6e68a40a728e8e1e0ec49d1a3cf95bd,2019-02-06T14:54:58Z,Make text changes
+e1a3b033f9907611653a3505fdcb62f33265b30a,2019-02-06T14:36:57Z,Add additional Requests notebook to call the methods we made
+1f8ebb06751860c2d4ade7af0abe23673f35cd62,2019-02-06T14:36:40Z,Make the base Jupyter notebook with the model
+1c9fa4145c4975a117c8900efd21408b46b160be,2019-02-06T10:37:25Z,Initial commit
+32f893d845c8cfedcbd1fee649338174d5641d46,2019-02-12T10:39:59Z,Update README.md
+9f3e461481f949faef6930f4ab5a46c1d7efc7b1,2019-02-12T10:39:21Z,Added steps to run server locally
+32a260279a58090d72fea9799181a5d171e89605,2019-02-12T10:29:26Z,Added steps to run application
+a2eed57793eaa2f849e7b8d580a5c8f7c6cc0b1a,2016-07-09T22:41:57Z,Update README.md
+06bf74b9ca4569da1de2fe5132b2fdd41184a5dc,2016-06-12T18:57:26Z,Readme Updated
+6ee2c1a969f14bbbeaf74da03d6926b2ccf142fa,2016-06-12T18:48:55Z,"Release 1.0.2
+
+Minor I/O changes"
+ecc72ead3d8c7de517caf372933f074eaf6c8eb1,2016-06-10T16:00:22Z,"MyEvent 1.0.1
+
+APK Version 1.0.1"
+ed3245fc8713cdd798faa4ab1e20c46d7fb2fcf0,2016-06-10T15:45:41Z,"Security Update
+
+Reaction and verification to the input"
+a5fca32a5981fa4ad86a0e57a772f1fdcb535910,2016-06-10T15:44:09Z,"Security Update
+
+Updated input verification methods"
+49127d9fd618f0ccd9692d227bf615f0a7e28bf1,2016-06-10T15:43:13Z,"Encryption update
+
+Encryption and Hashing class"
+bf8910369e8c3b1407419efe5be5e8eb3bc06646,2016-06-10T15:42:14Z,"Authentication
+
+Central input verification class"
+0fd63a74dba883d58956744bccd51f87c7f214b6,2016-06-10T15:41:08Z,"Security Update
+
+Updated Security with New http request method"
+6e4b73f00c601651aeab36f526a35219692dd809,2016-06-10T15:37:20Z,"Request method update
+
+Decreased floating data"
+7c5e4961507026c21ff57d8d60d3d45ced1f554a,2016-05-31T18:40:28Z,APK Added - Stable Release
+d11bc609aa8b4763bc72041e71508a8ac0c8fd55,2016-05-31T18:37:57Z,Delete IEEE MyEvent App.apk
+80d0902e458f372d565bc25314aa2f33b27ba470,2016-05-31T18:36:09Z,Merge remote-tracking branch 'refs/remotes/origin/master'
+f7cc9bb0fb92b1b6232d4559fff155390e695b49,2016-05-31T18:34:52Z,Stable Release
+8b41cb5e8f19dcc935594a4101421964b3da6b11,2016-05-30T20:41:11Z,APK Added
+eaf5eee88aeae27d89215df14fb24036733b387a,2016-05-30T19:43:46Z,Merge remote-tracking branch 'refs/remotes/origin/master'
+4b9a920d9d22e13e91304c61670e33509da3eceb,2016-05-30T19:43:26Z,New Update
+19ad1e17f55dbc1441d9b721cea84405ef58ba92,2016-05-30T17:00:10Z,Create README.md
+c0411ecdc0aeca8fc26fd4ed482860d4f685f2c9,2016-05-30T16:54:28Z,Delete PHP
+1aaaeec1917951935bec227b104f7702591e3108,2016-05-30T16:52:55Z,Working Mode
+aee937aa348e7cda65bf856ad1264be382a608a4,2016-05-30T10:49:58Z,Merge remote-tracking branch 'refs/remotes/origin/master'
+73f168c1755cc285dfde96a54a9d2fc97033b08c,2016-05-30T10:48:03Z,Added Delete Event
+4a9b88b371371958ca48f84ba1b42a3dd74363c0,2016-05-30T05:53:41Z,Added PHP Files
+28ca7e3189551486baf68e82ca4aa61d65216b9a,2016-05-30T05:48:03Z,Floating Action added
+a0fd35112c704419236c476fa356db342a9bcece,2016-05-30T04:34:08Z,Merge remote-tracking branch 'refs/remotes/origin/master'
+c53319e4691354c425dce304b4d378dbe185fd7e,2016-05-30T04:33:18Z,Addition Done
+b3e19335d98146fcf2f896ab43eae0ab83007ac0,2016-05-30T02:25:57Z,Delete readme.md
+5051139f5267e1ec9f3b6c9abaef28ddc544e0bc,2019-05-25T00:22:08Z,Update the dependencies
+0ed489a4da6a4d32a47677108c8d00c9466bdb58,2019-05-13T06:53:30Z,Update README.md
+f434a1e004b108fcbfe09c99321418c52673ed84,2019-03-31T10:13:19Z,Make minor changes to descriptions
+80f7ede9ada64494fe3d6254cf39e67b3aba352f,2019-03-28T21:39:29Z,Add requirements.txt file
+c12a7aef9fe81a272833040aad8a256e3230ab3f,2019-03-28T21:37:40Z,Add machine learning models and analyse results
+7abc5718421240d64d8e0f989dd71cbe09d891a7,2019-03-27T23:19:51Z,Add code for Data Manipulation
+02d55cbfaa25ce242d64ecb5432bcde2fad3d8b6,2019-03-01T12:00:34Z,Column wise exploratory data analysis
+b09223302ace2a9641d454049475e8c67823491f,2019-02-19T18:28:38Z,Exploratory Data Analysis
+e840f7177b991e5848ff29b8675d2ba6871dde08,2019-02-18T19:49:42Z,Create notebook and import data
+9f7a84d9c0458bdca156708fec41b2a0b5f93685,2019-02-18T16:59:52Z,Initial commit
+424ab132e3da76fb9c3db4362ea89c67bd84407b,2019-02-11T11:03:41Z,Update Medium API use to fetch posts and claps
+e8bfe2da1266b5a33fb85234607604dfb1c57195,2019-02-02T13:38:43Z,Remove clap count as not all articles get fetched
+c2ef43e06360d072d7a390ad3680292b84373812,2019-01-28T18:56:28Z,Use cors-anywhere to fetch Medium data
+2114a1af76c46657d06dcf1468379277b9afbed4,2019-01-28T14:04:13Z,Remove extra CSS
+7582db941eb1870a5575185a7b3e20ee83d6b00d,2019-01-28T14:02:11Z,Add medium articles section
+fac5561ce05fd3d008696362e45b7f00aff2b57e,2019-01-28T07:19:27Z,Add Error handling to API requests
+9c7cb145c40345265a9f03a3cb48120c33dbc6d2,2019-01-27T19:41:56Z,Add main.js for combined handling
+cc373386d3ec7d299a1fa44ae71d4e9029b36293,2019-01-27T17:37:05Z,Minor text changes
+3dbf0404c3413718ccd480a86df172908b00377f,2019-01-27T17:30:38Z,Add support for less and include GitHub data
+f12a8eebe72124c3a4540abe37e4d1e62033d042,2019-01-27T10:17:19Z,Add support for multiple screen sizes
+4886ade0a9fef1b86498ba2a1ab5bb73f536b8bc,2019-01-27T09:57:28Z,Basic website
+f73864817bf09321ab9ae4264de9ddfd19c196a0,2019-03-31T19:04:01Z,Add data for model selection section
+379ec9e1dadebb635d1c08b02f523edc4cb99e89,2019-03-31T19:03:34Z,Add code for kfold cross validation and xgboost
+f6538255b9e6cb4b87ea3f6afcd88b51bfd18b1f,2019-03-30T07:18:33Z,Work with Dimensionality reduction techniques
+75783090ae9f1ac7fb308fe47b90f22daf9ab7a3,2019-03-30T07:17:58Z,Update to deep learning notebook
+89979e8f93cfa0d6d590a78acbfe177662406f3a,2019-03-29T22:49:41Z,Add code for CNN
+e674d0393056be451a7766fd073c794a9c8019e5,2019-03-28T19:37:52Z,Add code for Artificial Neural Network using Keras
+e9668e039ca1a12b8b4dd8d470ea6ea3aaa3475d,2019-03-22T17:21:37Z,Add work for Natural Language Processing
+ab4b7f81158ae517bbc567256ccdc3833cd41917,2019-03-22T17:21:20Z,Add notebook and data for Reinforcement Learning
+e1c0faa3f53ccf372b8cd5b10f71d410ba37fcdd,2019-03-19T09:33:33Z,Add Apriori and Eclat algorithms for two item groups with description
+55e147277acb50e9d220e10f00f48210b8c1bf62,2019-03-18T21:12:32Z,Start with Apriori Association Rule Learning
+3ba59dda06e0b9f997d0aef4efce65a323f6195a,2019-03-17T16:35:14Z,Made change to folder names
+d2781a445d7f04484b655d4e41cd1aa0fe570f75,2019-03-08T13:40:44Z,Update README.md
+1598dadb99aca5433ee82eae38f74f52f3ac57ea,2019-03-08T13:38:28Z,Add description to K Means and Hierarchical Clustering
+fe3bd51d754a5a4627e6e2265acd8756473d315b,2019-03-08T12:48:58Z,Add Hierarchical Clustering on Mall dataset
+1bf90ba23e7e80b6cf90cac0ccf9b8686c0483bd,2019-03-08T12:28:17Z,Merge branch 'master' of https://github.com/kb22/Machine-Learning-A-Z-CourseWork
+5e6cd939dda7c76124b2639c93a3d944d445b37a,2019-03-08T12:27:45Z,Use K Means Clustering on Mall dataset
+13c93cf8aed8b4a48ebd596ad587b1bdd2b70f4d,2019-03-07T09:55:36Z,Update README.md
+1e17d22a6b1639bccb2e3d8901b7649a23181115,2019-03-07T09:55:14Z,Update README.md
+5c78c2cc1bcfc0bf169413ca36c17394b3827964,2019-03-07T09:54:08Z,Add code for Regression and Classification
+4937316d24307d56bc2021119780a1d8db04444f,2019-03-07T09:51:10Z,Initial commit
+4b8f2181861afe4b25205c6485770bee32aa411e,2019-04-07T19:23:24Z,Add instructions to fetch data
+83d41e61b919caf38b35c4d021e42b6e1f435730,2019-04-07T19:20:30Z,Add usage instructions
+a13dea8ae023cbfd1cbedd94b8669be258f9bdcf,2019-04-07T19:12:05Z,Add classifier CNN notebook
+11f01f12f76ef500cb0209fc3a95bfa1df4a9620,2019-04-07T19:12:05Z,Add requirements.txt will all dependencies
+f8fda78e8d68c9607b745625d1ed34cccd51a407,2019-04-07T14:46:51Z,Initial commit
+61df7c731fa43f915b456011775de39d675bda00,2019-03-10T15:58:10Z,Minor changes to code and description
+9a04963852d0e9927424a72d50d3cbe98cadabd6,2019-03-10T10:11:23Z,Add ROC and CAP Curve Analysis
+22fab67270623c92ac03defa384f0ed811695fdb,2019-03-09T20:30:07Z,Create dataset for further evaluation
+4dc6563ab1be734b92ba7f2252899bf1e0c0e1aa,2019-03-09T20:27:45Z,Initial commit
+5c71b132cbfb8ef10d7b24c7480fcd80520f5e71,2019-05-09T06:36:48Z,Add link to usage article.
+db0607ed8c9b63f5b2bbae3192305f9a20117b94,2019-04-20T18:18:05Z,"Merge pull request #9 from kb22/example-service-model-fix
+
+Update the iris model for docs"
+b6a533c8776a392d84735c55b1e6168252007e52,2019-04-20T18:17:36Z,Update the iris model for docs
+fb0afd655acda67ef7b853ceced19bd56a14df8c,2019-04-13T16:28:55Z,"Merge pull request #8 from kb22/sample
+
+Add a sample example using iris dataset"
+10e90d310123ff537345e00585c34fa16afd15ff,2019-04-13T16:27:51Z,Add a sample example using iris dataset
+39c0f28c96d92da28d93857c47c7bf88b4c1a2f8,2019-04-13T13:57:04Z,"Merge pull request #7 from kb22/ui
+
+Remove console logs and add css styles"
+4ebd4ca9e1cba8460c142adb8aee6227518b2235,2019-04-13T13:56:14Z,Remove console logs and add css styles
+84d87ea66c776057f34c6abcb46b432e581c94e2,2019-04-13T13:26:39Z,"Merge pull request #6 from kb22/service
+
+Comment code to be updated during template use"
+546460a75c8ec3aed1b8b33431edab6da0bcff63,2019-04-13T13:24:19Z,Comment code to be updated during template use
+7ffd53e87beb076948e84e3468a2a8aabfa02b1a,2019-04-13T13:14:05Z,"Merge pull request #5 from kb22/service
+
+Add requirements to setup service"
+ec9909c2e172245f1051e286e4e6ad5032342785,2019-04-13T13:11:15Z,Add requirements to setup service
+4fc13ee8d517271f3f32e7bf96f4da11814202cb,2019-04-11T16:19:28Z,"Merge pull request #4 from kb22/ui
+
+Add code to read result from service"
+4c64eaf4e12f681edd946804b5820cda15e4e583,2019-04-11T16:18:52Z,"Merge pull request #3 from kb22/service
+
+Upadte to service app"
+cbfd6902a4dde745f554642d1c58736b4f45105d,2019-04-11T14:36:49Z,Update service to handle POST request when OPTIONS is first hit
+2e219bb883348ded8ea9e81f3304e4853f99c86b,2019-04-11T14:35:49Z,Update UI with new endpoint
+8e76e9a78dc0ddd0849b7a215e4553744117bcf9,2019-04-11T10:37:43Z,Merge branch 'master' of https://github.com/kb22/ML-React-App-Template into ui
+b5b56fc6098c38566810ad4ab1457e2e8b6c9b46,2019-04-11T10:09:32Z,Update variable
+54bc1a232cf79407aced5bd7e8a29db750febb26,2019-04-11T09:35:52Z,"Merge pull request #2 from kb22/service
+
+Create Flask app for backend"
+d7411bb03a7b8a55554eed592bb910b58ec7f4ec,2019-04-11T09:33:44Z,Create Flask app for backend
+84b6616465f3ab741213eb6163a07c8851b35297,2019-04-08T16:47:12Z,Add fetch POST call for getting predictions
+abf2d62403fa8d7f1781a8b410770ea2f4f2ca08,2019-04-08T12:57:24Z,Add multiple fields and buttons
+147d79a26236855ae5d423e9bd6848111df31e91,2019-04-08T10:15:04Z,Add basic heading and form fields
+a3b1b145bb99cd39331faf9f933a35bc0705416c,2019-04-05T06:44:47Z,"Merge pull request #1 from kb22/ui
+
+Create app with create-react-app"
+d5858ce07fb51d7b2180eb4c4f3a3c2a6c4c7e91,2019-04-05T06:12:23Z,Create app with create-react-app
+ea8a23a2a8c0ed439cc84e6a75599920a7fcafe1,2019-04-05T05:34:34Z,Initial commit
+975671d1fdf9a059027186588e7907c6eb66108f,2016-09-10T14:41:22Z,MainPanel linking to further pages
+b97f90b6959b7f2155f5cb8b3defbd21494e6989,2016-09-10T12:36:19Z,ReadME!
+6c00c070664a61605d782a9029e88d3b765c87b8,2016-09-10T12:19:50Z,Updated.
+c196448a45a9fbf31c01a5529d699e4af68ecad7,2016-09-09T08:05:23Z,Add files via upload
+4e1a41d216b159b0acc0989e5c5c0bb22fe48049,2016-09-09T07:59:20Z,Add files via upload
+d8c3a796b1a8ba6d3996b17fabc72321ed8b02e5,2016-09-06T22:45:22Z,DataBase Updated
+f9b94478afe585ab8ad6c3936ba03bfe622e4d56,2016-09-06T22:44:21Z,LeaderBoard
+b4aa02cae5c830a90ac294dcc8308af254804ce8,2016-09-06T20:12:41Z,"Merge pull request #1 from kb22/Arccool-patch-1
+
+Add files via upload"
+3cf8ee95c7cdbc21f7a73e84e3ad9a99173b6dae,2016-09-06T19:49:07Z,"Add files via upload
+
+Added Photos to the main panel.let me know if this looks good"
+9f8b1f4e7c140a6553be9841000ca423accf1547,2016-09-04T17:51:35Z,Secure login 0.2
+7c1cfa0bbf214bd248618c13df5c2f83f049092a,2016-09-04T17:50:53Z,Secure login 0.1
+9e0119a78b106eccf5c1eb8af15806fba94c3a3f,2016-09-04T16:07:39Z,Readable code
+7faf2b5a8b1e8f96665e9653a960ddf9b67ff32e,2016-09-04T16:03:52Z,Bug fixes and Multiple quiz template support
+0725db6bb8bbbd1db7b32fadb77dab975b112941,2016-09-04T10:00:31Z,Debugged 0.1
+548dc1ceb79b69c3e76ef35a2c3365103080b445,2016-09-04T06:12:51Z,Buttons added
+bf30876ea22267b99f8f396dbcd449a730fb7e97,2016-09-03T19:48:43Z,working time and linking
+0d349e455bb448226723ac66ad544a174b27f8ec,2016-09-03T05:23:39Z,Add files via upload
+b48ee3b996225117397b97e6fcf3b0f54c198db2,2016-09-02T21:52:28Z,Modified Appearances
+02e0e351e2e2326e77f73fddd38b35a6e8db63ed,2016-09-02T07:20:59Z,"logout page
+
+session stop"
+d75e86006c230c6d99a455337a044d350e998988,2016-09-02T07:19:59Z,Linking to login page
+bc380913faa27bf09e48abe005e2e5b569f83449,2016-09-02T07:19:05Z,Score updation and session control
+85baba42e983c9f058c143a649f43fb56fd677bb,2016-09-02T07:17:46Z,"properly function now
+
+Added session control"
+ecdb7cc0cfc58d2f273dcbd72ea437fd8e86445d,2016-08-31T21:34:39Z,Instructions Page
+a876c716bb9b647e950826797f614a48d5198394,2016-08-31T20:02:32Z,New Quiz Panel
+a4f83115d27a3194f2d66ec337c483bc3f98907b,2016-08-29T19:02:40Z,"Timing control @ Client side
+
+[VIMP] Also added the instructions for implementing the server side time comparison."
+c9b6e45ab20ac0dd52f5d03faf9cf90401ede48a,2016-08-28T19:50:07Z,centralized db access
+5ca60fa38cf5fe3b2ce696665591cac5ec80467a,2016-08-28T19:48:19Z,Update: Session vars and Randomization
+2cb3b9b620dd08bed84d9388d0138dcdfbbe236f,2016-08-27T08:44:42Z,LoginPage
+6c9584d6a6e8ed5264a83e6db319b55e6f51658e,2016-08-26T16:39:53Z,Images Added
+2664d6ff1525c5a68ab561859d0a0689b7f815eb,2016-08-26T16:11:02Z,Images Added
+fc91fb9aab0ca7c6575cda6a48bd8952dfec72d4,2019-04-30T15:50:14Z,Merge branch 'master' of https://github.com/kb22/Plot-Maps-in-Python
+a0ddd84e78bbc0d9054bc50d3d96b73fa0d0c513,2019-04-30T15:45:54Z,More descriptive markdown
+09bbd1c9ee577eca78590da30fb2e7c786178cb4,2019-04-29T18:14:31Z,Update README.md
+c981e1f1cf6a356dcce35b0e03a0a06cea01756a,2019-04-29T18:10:57Z,Update README.md
+c3d442faf7f3d020e117530870c9f35b9d0a5c5d,2019-04-29T18:10:28Z,Update README.md
+a20397e417610b87ceff98fae991e87e7005513d,2019-04-29T18:10:05Z,Update README.md
+105d0e33ec4a066fad6a24b43f15481a0029bdc1,2019-04-29T17:34:51Z,Update code with text descriptions
+c3de8d0668f6bee43509953f14c37185e34209bf,2019-04-28T18:00:59Z,Make minor text changes
+e3f80e0a48342c5f1f54774b65a2f6877238a95d,2019-04-28T17:57:25Z,Update git ignore file
+5ca5ec1e3f88a1a22ac9ff110d16cbf78a4179d1,2019-04-28T17:56:25Z,Add requirements file
+cc827391eb1ecdae0feca205a3bfe652e6a3ac4c,2019-04-28T17:56:05Z,Make minor changes
+c2fdff2504074a6f229415f11ea85c9a2688667d,2019-04-28T17:25:11Z,Add plot for bokeh and results
+fdede886442d4784876b45eee9684e76572a7348,2019-04-28T16:55:09Z,Add code for geopandas and plotly
+cf524cc93c5dd4b8651a755c82757348706c1cf7,2019-04-28T13:23:21Z,Add code to plot using gmplot
+7f115431c7d93032759107e4f36cd115ae4a29f1,2019-04-28T04:22:40Z,Initial commit
+fc323cfd09250d21d610dd47adfa6caf64175b7e,2019-05-13T19:33:44Z,Merge branch 'master' of https://github.com/kb22/Purchasing-Intention-Prediction
+8df2166b12d7c69a594e11312c887f7dff67dd6d,2019-05-13T19:32:39Z,Use sigmoid activation in output layer
+e12a28ccf0cc32d19aca73896661132dc50f0dfb,2019-05-13T07:33:11Z,Update README.md
+fc565e35873258398ac97a04908e444b8f422141,2019-05-13T06:55:40Z,Update README.md
+92e53b67cc26266c4681817f4247142d24d35d9d,2019-05-13T06:55:00Z,Update and rename Purchase Intention Prediction.ipynb to Purchasing Intention Prediction.ipynb
+597ab08b748784ce05f1f807a7e7a992c2e46e5e,2019-05-13T06:07:54Z,Add description for notebook cells
+d018f72a6c3769999fb04f205989402cdfcf96ec,2019-05-12T07:41:12Z,Added more accurate model
+cffd3a038cd0eeabfc0aaaaee6d8edc418e07e98,2019-05-12T06:30:00Z,Add updated model with better accuracy
+eb7b2814544438df7ffd630286b93b48870a2fb7,2019-05-11T21:09:52Z,Add notebook
+1c6390fb8f40dc7463e20aea04a8df2cc05304fd,2019-05-10T13:30:30Z,Add data file
+63ff6136ba92d86dfe37af5ef4a19c612caac5ff,2019-05-10T10:27:15Z,Initial commit
+7be4dee2f4fe0461adcfead9c592365122a3c057,2016-07-10T21:51:31Z,Update README.md
+40d59b251d7b8bdcbb229a8cff5d321230b411e3,2016-07-10T21:44:02Z,Update README.md
+28442f8611769c9140ccc70f4614ef831a65e85b,2016-07-09T22:31:38Z,Update README.md
+19348966378446a3225bf04fea035234700e0d07,2016-07-09T22:28:08Z,Create Readme File
+46ab44488d9e0ade7e4dd95b617bbeea939bff74,2016-07-06T18:24:42Z,Better Functionality
+655e65dfa28fe47bbe06192fb60e1de32f0c168b,2016-06-17T18:49:13Z,Working
+c327b6464067fee7024cc15aa27dcfd93cd74873,2019-02-12T10:51:11Z,Update README.md
+083c91e9639bdcd2a4f60f528162d45fb39a292f,2019-02-12T10:50:25Z,Update README.md
+821ca8982c0e641f049af04aa12a34a1db3a78ad,2019-02-12T10:47:12Z,Update README.md
+5f3f60096a8c3f4c0b3d62003baa79e302eeb9a6,2016-07-10T21:50:40Z,Update README.md
+d9320132eb2858fcc2a58c49d5f1bea155d2bcd4,2016-07-10T21:47:00Z,Update README.md
+26e5dfc897e3a76924b977236f6692fdc34c86c2,2016-07-10T21:45:03Z,Update README.md
+3a8863649227183116fe71e71b1c0ab4881868da,2016-07-10T21:44:27Z,Update README.md
+45cdfbe3b2d196a733893eb1849cda28b224abf9,2016-07-09T23:06:43Z,Merge remote-tracking branch 'refs/remotes/origin/master'
+081b52bffa204692ece174af6d0602f4c8eecd6e,2016-07-09T23:05:42Z,Removed Constant Notification
+42363e0f22cb2ac56b0e39084c5ad9949d7e596c,2016-07-09T22:49:11Z,Update README.md
+02bf577ce03ed9600b1c06f7091fa2a9f7bc3dd5,2016-07-09T22:47:46Z,Update README.md
+224139b0ea3beb9f7066b25ea6db2f13c25299a8,2016-07-09T22:30:41Z,Updated Readme File
+a6ff2ef9e358cfed03d2d4e880883d1aa4cefcb9,2016-06-21T19:47:07Z,Working Prototype
+91405aa329eba2cad76625c896f1bae93ba0c78e,2016-06-17T18:42:14Z,Merge branch 'master' of https://github.com/kb22/Silence-It
+9f7882b324fab73bf4df7a381286eabb04389cf6,2016-06-16T21:38:00Z,Incorporated Settings
+2bdc77e0ccb458db6aebca6ef6ce0a0dbff665b3,2016-03-15T21:29:29Z,Create README.md
+5153b6fe46ad93c01b00714ecf985c38021f49c2,2016-03-15T21:20:17Z,Version 1.9
+81f43be4ba4a4cbadce201428c7e857a56a68ae7,2016-03-13T22:21:42Z,Version 1.6
+4093bd0335007903fe7c99cefd8875f938434a64,2016-03-13T19:03:46Z,Version 1.5
+77701fb0e89293cc665a26ba8264d715b6ff185c,2016-03-13T18:23:08Z,Improved-On-RestartService
+2afa249c154be8d7dff8ac629b5ed6a2f347fbaf,2016-03-12T18:59:10Z,Version 1.1
+d46d6b567065bf8cd9e37be5cb03be5b9fbc6ae5,2016-03-12T12:33:25Z,Icon Added
+df48b0e89a338ba54eab54abd44fffda8775b4bb,2016-03-12T11:42:39Z,Version 1.0
+ddd31b6c34d5b2bf2637d4019647043af2b8adfb,2016-03-12T11:15:15Z,Infinite-Service
+031957ee5cb75ea72f50db625c9bd668a14568fe,2016-03-12T05:45:44Z,Initial Commit
+d5602c8ea4eb9f3abb6b9ffeabf81d21921c95b2,2016-07-10T21:53:38Z,Update README.md
+b00513453f332b64dac2713359267e958d2866c5,2016-07-10T21:52:59Z,Update README.md
+ac4d2a52f1e148da5b43fba71d6e0396cbcf194f,2016-02-16T15:24:30Z,Changes
+89c942312018b92bc961d6bd4d2f1e84694b47fb,2016-02-15T20:13:13Z,Labels-Added
+47004a4270c90b7162d70bcc2ce7dce0def4ada8,2016-02-15T20:07:15Z,Version 1.0 Released
+eea5485327599430305339b71b05e845e42bcc27,2016-01-25T18:11:42Z,Find-Replace-Working
+4d900d5593b7ac781d8e314a732096f7288cf669,2016-01-25T16:46:52Z,Find-Replace-Beta
+18f2196d2cf8604d1f129a1fa67ae97c46a84ceb,2016-01-21T18:21:17Z,Text-Color
+58e60c0244a23b5ae0665b1b58c88dd8520f77f2,2016-01-21T16:58:13Z,Promp-Added
+a0e370f55614a7a2c109d3b3f6b487a1ce9bb469,2016-01-21T16:44:36Z,Fully-Functional-FileMenu
+c0b0238ff2abd6e997a86046d6eb76aa454c4d16,2016-01-20T21:45:05Z,Scrollable-TextArea
+ea2f94e0e5bfb40b930f4c317ad9b29a0e15cef5,2016-01-20T21:34:57Z,Added-Find
+f9e517e6a4ed05397b384e3917be54e6d9ac0188,2016-01-17T20:24:39Z,InstructionWindow-ready
+a33971b7876b5ff77d4112268f33a9dbe8ff19c7,2016-01-17T19:50:52Z,AboutWindow-ready
+980133a67e0a817c51fd182eea6ec91c8366ce72,2016-01-17T19:13:59Z,Added-Variables
+b1bc596cb3129e1ccc31f0ceef7603943180fbd7,2016-01-17T18:55:54Z,Added-Comments
+52c1ddb852cd62abeb5e7996dc5953f01956e0bb,2016-01-14T18:25:02Z,File Menu Working
+e1e13eafa0ecf1fefdf1c06f4c7178cb9c172775,2016-01-14T17:36:02Z,Initial Release
+6ae2615e6c9d4c6f7d95c266da208ab2e6b39035,2016-01-14T17:14:24Z,Initial commit
+5ca6021ededccbed2f2d1088d3f1496b458cb3b4,2019-06-17T04:42:52Z,Set theme jekyll-theme-cayman
+65376691e7adab5356d80c8bd89e9ea8e334390e,2019-06-09T16:46:48Z,"Merge pull request #4 from kb22/deep-learning
+
+Add Random Classifier model"
+578e26560907b31f1cae549fc4f8c32cb6403dc8,2019-06-09T16:46:26Z,Add Random Classifier model
+65ff3ee83327fa6fd00387defe1f2273c59220de,2019-06-08T10:09:14Z,"Merge pull request #3 from kb22/deep-learning
+
+Add preprocessing step"
+c75ec76c3208b19d6c2374c65e23dcd7d3ac0355,2019-06-08T10:06:48Z,Complete preprocessing of tweets
+5931e0601f70b41eaf9320d75252bd6adb41bad0,2019-06-07T13:00:27Z,"Preprocess tweet by removing users, extra characters and expanding words"
+0593ed94548fbbdcd9fafc1f9449c67d8753c099,2019-06-06T13:30:08Z,Add Python installation steps
+38df726712229871165d0546aeaacecc5fc9cf1c,2019-06-03T17:37:14Z,Cloning and downloading instructions added
+1a32d9e2ec0d6c670ae7812884f868e68c371f51,2019-06-03T17:24:35Z,"Merge pull request #2 from kb22/deep-learning
+
+Data splitting"
+00641a0cae2995c24f0fd3abc6dcf1cc201a8655,2019-06-03T16:41:38Z,Split the dataset into 80% training and 20% testing data (randomly)
+97ecd13617029e8a95355425dc744ead1736ba9e,2019-06-03T16:10:22Z,"Merge pull request #1 from kb22/analysis
+
+Added notebook with analysis of the dataset"
+9f1730d1d5fe6bc1ac836871cc8e0f2b579f33e2,2019-06-03T16:09:33Z,Added notebook with analysis of the dataset
+14edc1696cdd08bc0dbbd9b06ecd5cea48d53457,2019-06-03T10:23:33Z,Add a .gitignore file
+21bfd21fc47796ef9dcadfc55d4c962ff0f2f3be,2019-06-03T09:17:20Z,Update README.md
+bf8f5ca54dc3b0953fa35df679644a28dafabb4c,2019-06-03T09:16:59Z,Initial commit
+d7d52138d0ae7d12275fea777ca2a04f6f2b1399,2019-05-25T00:34:40Z,Update dependencies to latest version
+216d339658cb07ecdacd86d082e483a790e953e9,2019-02-23T15:10:08Z,Added the names APIs app
+9a1a15efeace0db8ff5f69685e30dd83a1177056,2019-02-22T10:41:48Z,Add a basic flask app
+7c089773abdfd9df2f9361b8324a36ef04f5ce16,2019-02-21T12:05:19Z,Initial commit
