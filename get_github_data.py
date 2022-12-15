@@ -7,10 +7,16 @@ import requests
 from requests.auth import HTTPBasicAuth
 
 credentials = json.loads(open('credentials.json').read())
-authentication = HTTPBasicAuth(credentials['username'], credentials['password'])
 
-data = requests.get('https://api.github.com/users/' + credentials['username'], auth = authentication)
+data = requests.get('https://api.github.com/users/' + credentials['username'], 
+headers={
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Accept": "application/vnd.github+json",
+        "Authorization": "Bearer " + credentials['password']
+        })
 data = data.json()
+
+print(data)
 
 print("Information about user {}:\n".format(credentials['username']))
 print("Name: {}".format(data['name']))
@@ -25,7 +31,11 @@ url = data['repos_url']
 page_no = 1
 repos_data = []
 while (True):
-    response = requests.get(url, auth = authentication)
+    response = requests.get(url, headers={
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Accept": "application/vnd.github+json",
+        "Authorization": "Bearer " + credentials['password']
+        })
     response = response.json()
     repos_data = repos_data + response
     repos_fetched = len(response)
@@ -64,7 +74,11 @@ repos_df = pd.DataFrame(repos_information, columns = ['Id', 'Name', 'Description
 
 print("Collecting language data")
 for i in range(repos_df.shape[0]):
-    response = requests.get(repos_df.loc[i, 'Languages URL'], auth = authentication)
+    response = requests.get(repos_df.loc[i, 'Languages URL'], headers={
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Accept": "application/vnd.github+json",
+        "Authorization": "Bearer " + credentials['password']
+        })
     response = response.json()
     if response != {}:
         languages = []
@@ -84,7 +98,11 @@ for i in range(repos_df.shape[0]):
     url = repos_df.loc[i, 'Commits URL']
     page_no = 1
     while (True):
-        response = requests.get(url, auth = authentication)
+        response = requests.get(url, headers={
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Accept": "application/vnd.github+json",
+        "Authorization": "Bearer " + credentials['password']
+        })
         response = response.json()
         print("URL: {}, commits: {}".format(url, len(response)))
         for commit in response:
